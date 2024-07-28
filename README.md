@@ -21,10 +21,6 @@
   - [Installation Steps](#installation-steps)
 - [Usage](#usage)
 - [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
