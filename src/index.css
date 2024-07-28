@@ -1,0 +1,52 @@
+body {
+  overflow-x: hidden;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+code {
+  font-family: "iranyekanwebregular.ttf";
+}
+
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: local("Gilroy-Regular"),
+    url(./fonts/Gilroy-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: local("Gilroy-Medium"), url(./fonts/Gilroy-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gilroy-ExtraBold";
+  src: local("Gilroy-ExtraBold"),
+    url(./fonts/Gilroy-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "IRANYekanMobileRegular";
+  src: local("IRANYekanMobileRegular"),
+    url(./fonts/IRANYekanMobileRegular.ttf) format("truetype");
+}
+
+input,
+textarea,
+button,
+select,
+a,
+.css-1tbesnb,
+.css-1cqh9jq,
+.chakra-checkbox {
+  -webkit-tap-highlight-color: transparent;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s;
+}
